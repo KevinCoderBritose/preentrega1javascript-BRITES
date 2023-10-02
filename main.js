@@ -28,7 +28,7 @@ while (true) {
 }
 */
 
-//Simulador Interactivo (Tuve que ayudarme con chatgpt, se me complico bastante, de todas formas seguire practicando)
+//Simulador Interactivo (Tuve que ayudarme con chatgpt, se me complico bastante, de todas formas seguire practicando, espero se entienda)
 
 /* var monto = parseFloat(prompt("Ingrese el monto principal:"));
 var tasaAnual = parseFloat(prompt("Ingrese la tasa de interés (%):"));
